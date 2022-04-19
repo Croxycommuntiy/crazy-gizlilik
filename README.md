@@ -1,10 +1,10 @@
 CrazyBot Sunucu Verileri, Kanal Verileri, Kullanıcı verileri ve Rol Verileri saklanabilmektedir.
 
-bu gidişat Kanal kimlikleri mod (günlük kanalı, giden kanal vb.) için.
+bu  Kanal kimlikleri moderasyon (günlük kanalı, giden kanal vb.) için.
 
 Rol Kimlikleri, moderasyon (otomatik, kayıt vb.) için saklanmaktadır.
 
-Bir şekilde kullanılmalarıyla paylaşılamaz! ve bot geliştiricisine ulaşılması için kullanılırz silinebilir
+Hiçbir şekilde kullanıcılarla paylaşılamaz! ve bot geliştiricisine ulaşılması halinde verileriniz silinir.
 
              Kullanıcıların Hakları
 
